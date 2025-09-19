@@ -38,7 +38,7 @@ export default function Home() {
         <div className="cards">
           <div className="card">
             <img
-              src="https://images.unsplash.com/photo-1568605114967-8130f3a36994"
+              src="https://www.simplyrecipes.com/thmb/0NrKQlJ691l6L9tZXpL06uOuWis=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Easy-Greek-Salad-LEAD-2-4601eff771fd4de38f9722e8cafc897a.jpg"
               alt="Greek Salad"
             />
             <div className="card-body">
@@ -57,7 +57,7 @@ export default function Home() {
 
           <div className="card">
             <img
-              src="https://images.unsplash.com/photo-1604908177522-0402d9d25e1e"
+              src="https://www.centercutcook.com/wp-content/uploads/2024/10/bruschetta-with-mozzarella-14.jpg"
               alt="Bruschetta"
             />
             <div className="card-body">
@@ -75,7 +75,7 @@ export default function Home() {
 
           <div className="card">
             <img
-              src="https://images.unsplash.com/photo-1617196035059-7a77fcb4a6f4"
+              src="https://www.cookingclassy.com/wp-content/uploads/2016/03/lemon_cheesecake_mousse.-1.jpg"
               alt="Lemon Dessert"
             />
             <div className="card-body">
